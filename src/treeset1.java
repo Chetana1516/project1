@@ -2,6 +2,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class treeset1 {
+
     public static void main(String[] args) {
         TreeSet<Integer> n = new TreeSet<>();
         n.add(4);
